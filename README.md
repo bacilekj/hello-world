@@ -1,2 +1,2 @@
 # hello-world
-My first example
+My first example of work with GitHub
